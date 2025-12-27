@@ -1,5 +1,7 @@
 A powerful plugin for complete server control in Crab Game. It provides advanced administration tools, gameplay management, and the creation of unique game scenarios
 
+![Uploading image.png…]()
+
 
 Moderation and Security:
 
