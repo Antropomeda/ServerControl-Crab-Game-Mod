@@ -1,8 +1,4 @@
-
-![Uploading Admin Menu.png…]()
-
-
-A powerful plugin for complete server control in Crab Game. It provides advanced administration tools, gameplay management, and the creation of unique game scenarios
+<img width="1400" height="898" alt="image" src="https://github.com/user-attachments/assets/0b3b6ab4-3286-47da-b1ee-609d4393bdbc" />A powerful plugin for complete server control in Crab Game. It provides advanced administration tools, gameplay management, and the creation of unique game scenarios
 
 
 Moderation and Security:
