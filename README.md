@@ -7,7 +7,6 @@
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d080b07c-0975-4be1-a762-9587a4a2091e" />
 
 
-
 A powerful plugin for complete server control in Crab Game. It provides advanced administration tools, gameplay management, and the creation of unique game scenarios
 
 Moderation and Security:
