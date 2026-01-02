@@ -1,6 +1,13 @@
 !!!!Description in README for the old version, the new version has fixed many bugs and has new content!!!!
+!!!!The screenshots show the latest version of the mod, but not everything is shown in the screenshots, of course!!!!
 
-<img width="1400" height="898" alt="image" src="https://github.com/user-attachments/assets/0b3b6ab4-3286-47da-b1ee-609d4393bdbc" />A powerful plugin for complete server control in Crab Game. It provides advanced administration tools, gameplay management, and the creation of unique game scenarios
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/500faff5-ea88-4dfe-90fc-c91c28b9478a" />
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/41a52765-7d7d-43ef-8f91-d96c57839beb" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d080b07c-0975-4be1-a762-9587a4a2091e" />
+
+
+
+A powerful plugin for complete server control in Crab Game. It provides advanced administration tools, gameplay management, and the creation of unique game scenarios
 
 Moderation and Security:
 
