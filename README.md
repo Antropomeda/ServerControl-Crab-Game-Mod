@@ -34,11 +34,7 @@ The control menu is opened by pressing F10. When the interface is open, characte
 
 Note:
 
-
-Anti-Griefing doesn't work yet, I know that
-
-
-There are no beautiful visuals yet, and there aren't any plans for them in the next few versions, as I'll be working on bugs and functionality!!!!
+!!!!There are no beautiful visuals yet, and there aren't any plans for them in the next few versions, as I'll be working on bugs and functionality!!!!
 
 
 !!!!The mod is currently in testing (especially the ban/tempban and unban systems), so there may be some bugs. If you find any, record a video, then send it to me on Discord and explain what happened. (You can also post ideas for improvement (what new things can be added))!!!!
