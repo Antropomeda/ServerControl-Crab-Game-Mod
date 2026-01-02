@@ -1,6 +1,6 @@
 !!!!Description in README for the old version, the new version has fixed many bugs and has new content!!!!
 
-!!!!The screenshots show the latest version of the mod, but not everything is shown in the screenshots, of course!!!!
+!!!!The screenshots show the latest version of the mod, but not everything that is in the mod is shown in the screenshots, of course!!!!
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/500faff5-ea88-4dfe-90fc-c91c28b9478a" />
 <img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/41a52765-7d7d-43ef-8f91-d96c57839beb" />
