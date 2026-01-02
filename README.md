@@ -17,7 +17,7 @@ Antro Server Control allows you to manage your lobby without restarting the serv
 Interacting with Players:
 
 
-The tools include granting any weapon or item to a specific player or to everyone on the server. The Fake Chat feature allows you to send chat messages impersonating other players. Additional features include a Ragdoll Cannon (Capsule shooting), adjustable punch strength (Chaos Punch), and mass actions: kill everyone, teleport everyone to your location, freeze players, or shuffle their positions
+The tools include granting any weapon or item to a specific player or to everyone on the server. The Fake Chat feature allows you to send chat messages impersonating other players. Adjustable punch strength (Chaos Punch), and mass actions: kill everyone, teleport everyone to your location, freeze players, or shuffle their positions
 
 
 Scripting System:
