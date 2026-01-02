@@ -1,4 +1,4 @@
-!!!!Description in README for the old version, the new version has fixed many bugs and has new content!!!!
+!!!!The new version has fixed many bugs and has new content!!!!
 
 !!!!The screenshots show the latest version of the mod, but not everything that is in the mod is shown in the screenshots, of course!!!!
 
